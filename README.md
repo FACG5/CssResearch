@@ -1,6 +1,6 @@
 # CSS With BEM 
 
----css
+---
 /* Block component */
 .btn {}
 
