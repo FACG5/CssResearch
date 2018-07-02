@@ -1,5 +1,20 @@
-# What is CSS?
-- CSS stands for Cascading Style Sheets
+https://github.com/FACG5/CssResearch.git
+Designing For The Best Experience For All Users
+Web pages can be viewed using many different devices: desktops, tablets, and phones. Your web page should look good, and be easy to use, regardless of the device.
+What is Responsive Web Design?
+Responsive web design makes your web page look good on all devices.
+Responsive web design uses only HTML and CSS.
+Responsive web design is not a program or a JavaScript.
+Why  Responsive Web Design?
+Before tablets and mobile phones, web pages were designed only for computer screens, and it was common for web pages to have a static design and a fixed size.
+Then, when we started surfing the internet using tablets and mobile phones, fixed size web pages were too large to fit the viewport. To fix this, browsers on those devices scaled down the entire web page to fit the screen.
+This was not perfect!! But a quick fix.
+Benefits of Responsive Web Design
+1. More Mobile Traffic
+2. Faster Mobile Development at Lower Costs
+3. Lower Maintenance Needs
+
+
 - CSS describes how HTML elements are to be displayed on screen, paper, or in other media
 - It can be inline, internal and external
 - CSS saves a lot of work. It can control the layout of multiple web pages all at once
