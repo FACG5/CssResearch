@@ -20,7 +20,7 @@ If all three are used in a name it would look something like this
                     [block]__[element]--[modifier]--
 
 
----
+```css
 /* Block component */
 .btn {}
 
@@ -30,4 +30,5 @@ If all three are used in a name it would look something like this
 /* Modifier that changes the style of the block */
 .btn--orange {} 
 .btn--big {}
----
+
+```
