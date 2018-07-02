@@ -12,9 +12,9 @@ useful in writing CSS that is easier to read, understand, and scale.
 ---
 # Why BEM
 benefits:
--communicates purpose or function
--communicates component structure
--sets a consistent low-level of specificity for styling selectors
+- communicates purpose or function
+- communicates component structure
+- sets a consistent low-level of specificity for styling selectors
 
 # How It Works
 includes up to three parts:
